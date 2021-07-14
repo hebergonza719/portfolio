@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button'
 import toDoGif from '../images/to-do-cropped.gif';
 import photoGalleryGif from '../images/gallery-crop.gif';
 import trackItGif from '../images/track-it-crop.gif';
-import gitstatsGif from '../images/GitStatsDemo1.gif';
+import gitstatsGif from '../images/gitstats-Gif.gif';
 import conwaysGame from '../images/Conways_Game.gif';
 
 const Project = () => {
