@@ -11,7 +11,7 @@ const Header = () => {
         <Nav className="mr-auto nav-link-container">
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/projects">Projects</Nav.Link>
-          <Nav.Link href="#">Contact Us</Nav.Link>
+          <Nav.Link href="/contact-me">Contact Me</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

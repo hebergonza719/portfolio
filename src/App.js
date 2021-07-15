@@ -3,6 +3,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from './components/Home.js';
 import Projects from './components/Projects';
+import ContactFrom from './components/ContactForm';
 
 function App() {
   return (
@@ -11,6 +12,9 @@ function App() {
         <Switch>
           <Route path='/projects'>
             <Projects />
+          </Route>
+          <Route path='/contact-me'>
+            <ContactFrom />
           </Route>
           <Route exact path='/'>
             <Home />

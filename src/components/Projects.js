@@ -3,7 +3,7 @@ import Header from './Header';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Button from 'react-bootstrap/Button'
+import Button from 'react-bootstrap/Button';
 import toDoGif from '../images/to-do-cropped.gif';
 import photoGalleryGif from '../images/gallery-crop.gif';
 import trackItGif from '../images/track-it-crop.gif';
